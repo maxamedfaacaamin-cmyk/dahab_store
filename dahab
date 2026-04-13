@@ -1,0 +1,42 @@
+# 🛒 Dahab Store App
+
+Welcome to **Dahab Store**, a modern Store Management System built with **Flutter + Firebase**.
+
+---
+
+## 🚀 Project Overview
+This app helps manage a shop easily and efficiently. It includes:
+- 📦 Product Management
+- 💰 Sales Tracking
+- 📊 Dashboard Analytics
+- 👥 User Management
+- 🔐 Authentication System
+
+---
+
+## 🛠️ Tech Stack
+- Flutter (Frontend)
+- Firebase (Backend)
+- Cloud Firestore (Database)
+- Firebase Auth (Login System)
+
+---
+
+## ✨ Features
+✔ Add / Edit / Delete Products  
+✔ Track Daily Sales  
+✔ Simple & Clean UI  
+✔ Fast Performance  
+✔ Mobile Friendly Design  
+
+---
+
+## 📸 Screens (Coming Soon)
+Dashboard, Products Page, Sales Page, Reports
+
+---
+
+## 📂 How to Run
+```bash
+flutter pub get
+flutter run
